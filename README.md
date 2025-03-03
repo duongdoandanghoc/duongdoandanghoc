@@ -6,7 +6,7 @@ Alongside my foundation in embedded systems, I have a continuous drive for innov
 Beyond my passion for technology, I enjoy playing sports, especially football and badminton. I believe that sports not only improve physical health but also help develop teamwork, agility, and strategic thinking—essential qualities for effective collaboration in a team environment.
 
 With a strong eagerness to learn, a creative mindset, and an energetic lifestyle, I aspire to work in a modern technological environment where I can contribute to smart solutions and continuously develop myself in a well-rounded manner.
-"- 👀 I’m interested in lerning python and C/C++
+- 👀 I’m interested in lerning python and C/C++
 - 🌱 I’m currently learning python and C/C++
 - 📫 How to reach me gmail: hzduongviphz2@gmail.com?
 
