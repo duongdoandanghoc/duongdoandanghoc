@@ -25,6 +25,18 @@ With a strong eagerness to learn, a creative mindset, and an energetic lifestyle
 
 - 📫 Feel free to reach me out **[Linkedin](https://www.linkedin.com/in/duongdoan24/)**, **[Facebook](https://www.facebook.com/dz2oo4)** or **Email: hzduongviphz2@gmail.com**
 
+
+
+<!--icons and links-->
+<p align="center">
+<a href="(https://www.linkedin.com/in/duongdoan24/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/e9_dmd2.4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+  
+
 <!---
 duongdoandanghoc/duongdoandanghoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
