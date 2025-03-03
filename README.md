@@ -23,7 +23,7 @@ With a strong eagerness to learn, a creative mindset, and an energetic lifestyle
   
 - 📚 Learning and growing every day
 
-- 📫 Feel free to reach me out **[Linkedin]([https://www.linkedin.com/in/onkarmendhapurkar/](https://www.linkedin.com/in/duongdoan24/))**, **[Facebook]([https://www.facebook.com/dz2oo4])** or **Email: hzduongviphz2@gmail.com**
+- 📫 Feel free to reach me out **[Linkedin](https://www.linkedin.com/in/duongdoan24/)**, **[Facebook](https://www.facebook.com/dz2oo4)** or **Email: hzduongviphz2@gmail.com**
 
 <!---
 duongdoandanghoc/duongdoandanghoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
