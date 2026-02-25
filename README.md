@@ -8,7 +8,7 @@
     <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Welcome to my GitHub! I'm an Embedded engineering student at HUST with an insatiable curiosity for all things tech.</h2></summary>
   </ul>
 </div>
-  I am a third-year student at Hanoi University of Science and Technology, driven by a lifelong passion for unmanned aerial vehicles, which led me to pursue the Smart Embedded Systems & IoT program at HUST. Although I have limited practical experience, I actively seek opportunities to learn and enhance my skills through academic projects, some of which I have shared on GitHub.
+  I am a fourth-year student at Hanoi University of Science and Technology, driven by a lifelong passion for unmanned aerial vehicles, which led me to pursue the Smart Embedded Systems & IoT program at HUST. Although I have limited practical experience, I actively seek opportunities to learn and enhance my skills through academic projects, some of which I have shared on GitHub.
 
 Alongside my foundation in embedded systems, I have a continuous drive for innovation fueled by my love for reading and exploring new advancements in technology. I have basic proficiency in C/C++ and Python programming, working with microcontrollers, signal processing, and device connectivity. I am always looking for opportunities to grow, participate in real-world projects, and take on new challenges.
 
