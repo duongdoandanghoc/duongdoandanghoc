@@ -15,7 +15,7 @@ Alongside my foundation in embedded systems, I have a continuous drive for innov
 Beyond my passion for technology, I enjoy playing sports, especially football and badminton. I believe that sports not only improve physical health but also help develop teamwork, agility, and strategic thinking—essential qualities for effective collaboration in a team environment.
 
 With a strong eagerness to learn, a creative mindset, and an energetic lifestyle, I aspire to work in a modern technological environment where I can contribute to smart solutions and continuously develop myself in a well-rounded manner.
-- 🎓 Third-year ET-E9 student at HUST
+- 🎓 Fourth-year ET-E9 student at HUST
   
 - 👀 I’m interested in lerning python and C/C++
   
